@@ -4,6 +4,7 @@ This software automatically removes the 1H NMR signals of the most abundant EDTA
 All procedures are done automatically without any significant input by the user: just loading the 1H NMR spectra. The software is highly validated in multi-centered cohorts and clinical/spectrometric independent measurements of hundreds of samples and can be applied to any serum-, plasma-EDTA 1H NMR profiles retrospectively.
 
 INSTALLATION NOTES
+
 ---> For macOS
 Double click the "Blood_Metal_Ions_Quant.app" and follow on screen intructions/steps. 
 Please note that this software is compiled on the Intel based MATLAB 2024b and the ROSETTA/ROSETTA 2 is needed for Apple silicon (M-series) chips.
