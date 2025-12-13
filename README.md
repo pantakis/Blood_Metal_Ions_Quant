@@ -3,7 +3,7 @@ This software automatically removes the 1H NMR signals of the most abundant EDTA
 
 All procedures are done automatically without any significant input by the user: just loading the 1H NMR spectra. The software is highly validated in multi-centered cohorts and clinical/spectrometric independent measurements of hundreds of samples and can be applied to any serum-, plasma-EDTA 1H NMR profiles retrospectively.
 
-INSTALLATION NOTES
+INSTALLATION NOTES (internet connection is required)
 
 ---> For macOS
 
