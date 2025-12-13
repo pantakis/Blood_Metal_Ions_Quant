@@ -6,11 +6,13 @@ All procedures are done automatically without any significant input by the user:
 INSTALLATION NOTES
 
 ---> For macOS
+
 Double click the "Blood_Metal_Ions_Quant.app" and follow on screen intructions/steps. 
 Please note that this software is compiled on the Intel based MATLAB 2024b and the ROSETTA/ROSETTA 2 is needed for Apple silicon (M-series) chips.
 Software is tested and it is fully functional for macOS 14 (Sonoma),  macOS 15 (Sequoia) and macOS 26 (Tahoe).
 
 ---> For Windows OS
+
 Double click the "Blood_Metal_Ions_Quant.exe" and follow on screen intructions/steps. 
 Software is tested and it is fully functional for Windows 10 and Windows 11.
 
