@@ -1,7 +1,7 @@
 # Blood_Metal_Ions_Quant
 This software automatically removes the 1H NMR signals of the most abundant EDTA forms ("Free" EDTA , Ca-EDTA, Mg-EDTA and Zn-EDTA) in blood serum/plasma samples, or only the Free EDTA signals, while measuring the relative and/or absolute  concentration of the abundant metal ions in blood products samples 
 
-(NOTE: For absolute Quantifcation, NMR serum/plasma samples should be prepared following BRUKER IVDr SOPs (see Anal. Chem. 2014, 86, 19, 9887–9894, https://doi.org/10.1021/ac5025039)
+-NOTE: For absolute Quantifcation, NMR serum/plasma samples should be prepared following BRUKER IVDr SOPs plus EDTA (if not present from sample collection) as proposed in our study.
 
 All procedures are done automatically without any significant input by the user: just loading the 1H NMR spectra. The software is highly validated in multi-centered cohorts and clinical/spectrometric independent measurements of hundreds of samples and can be applied to any serum-, plasma-EDTA 1H NMR profiles retrospectively.
 
